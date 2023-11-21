@@ -15,13 +15,9 @@
 
 [My current portfolio](https://portfolio-nazar.web.app/)
 
----
-
 ## Tech Stack
 
 In progress...
-
----
 
 ## Why This Stack
 
