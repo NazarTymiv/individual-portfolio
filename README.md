@@ -2,14 +2,12 @@
 
 ## About My Portfolio Project
 
-### Planning & Inspiration
+## Planning & Inspiration
 
 ### Diagrams
 
 ![alt text](./_assets/individual-portfolio.png)
 [Link for my components' diagram](https://whimsical.com/individual-portfolio-5pePPa99b54Up9qXFYuWhA)
-
----
 
 ### Links
 
@@ -28,8 +26,6 @@ In progress...
 ### Why This Stack
 
 In progress...
-
----
 
 ## Links
 
