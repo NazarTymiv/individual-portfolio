@@ -15,6 +15,18 @@
 2. SEP 2012 – MAY 2022 <br> Secondary Education | Math | English | Ukrainian | IT <br> Lysetsky Lyceum <br> Ukraine
 3. SEP 2018 – JUN 2021 <br> Coding | Front-end Developer | Communication Skills <br> Programming School “School of computer skills” <br> Ukraine
 
+### Experience
+
+1. JULY 2020 – PRESENT <br> Front-end Developer | Node.js Developer <br> Worked on: Freelance <br> Location: Ukraine, London, USA, Germany
+2. JUN 2021 – SEPT 2021 <br> Front-end Developer | Node.js Developer | Node Telegram Bot <br> Furniture Company: 4 Stiny <br> Location: Ukraine (Remote, Office)
+3. JAN 2022 – APR 2022 <br> Front-end Developer | React Developer | React Native <br> Sport Company: Easy Champ <br> Location: Ukraine (Remote), Poland (Remote)
+
+Key responsibilities: I specialize in creating high-quality user interfaces that
+provide all necessary functionalities, ensure correct display on all devices, and
+offer a convenient interface. In addition, I have experience in writing servers using
+Node.js, collaborating effectively with teams, and troubleshooting technical
+issues.
+
 ### My Tech Stack for portfolio
 
 **Frontend**
