@@ -1,6 +1,6 @@
 # Individual Portfolio
 
-## About My Portfolio Project
+# About My Portfolio Project
 
 ## Planning & Inspiration
 
@@ -27,7 +27,7 @@ In progress...
 
 In progress...
 
-## Links
+# Links
 
 ### Online hosted Portfolio
 
