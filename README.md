@@ -17,13 +17,13 @@
 
 ---
 
-### Tech Stack
+## Tech Stack
 
 In progress...
 
 ---
 
-### Why This Stack
+## Why This Stack
 
 In progress...
 
