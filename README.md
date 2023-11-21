@@ -4,9 +4,12 @@
 
 ### Planning & Inspiration
 
-In progress...
+### Diagrams
 
-#### Links
+![alt text](./_assets/individual-portfolio.png)
+[Link for my components' diagram](https://whimsical.com/individual-portfolio-5pePPa99b54Up9qXFYuWhA)
+
+### Links
 
 [Figma layout for design of my portfolio](<https://www.figma.com/file/HNvizHWHUTJkVd3IR53Ij2/Developer-Portfolio-Design-(Community)?node-id=0%3A1&mode=dev>)
 
