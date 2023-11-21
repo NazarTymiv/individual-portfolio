@@ -26,7 +26,9 @@ In this project I will use React with vite template of react, also I will use:
 
 ## Why This Stack
 
-In progress...
+I will use react for create one page web application of my portfolio also I will use mongo db for store all my projects and probably setting and data for my profile, so I will be able to change all titles, descriptions and photos in my app.
+
+Node js and express js I will use for create my server for communication between user interface and database. I will create there a few end points for add a new project in my database, for delete project, edit that project and probably I will create one end point for change all information in my portfolio.
 
 # Links
 
