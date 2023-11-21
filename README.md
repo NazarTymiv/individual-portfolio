@@ -4,7 +4,13 @@
 
 ### Planning & Inspiration
 
-Figma layout for design of my portfolio: https://www.figma.com/file/HNvizHWHUTJkVd3IR53Ij2/Developer-Portfolio-Design-(Community)?node-id=0%3A1&mode=dev
+In progress...
+
+#### Links
+
+[Figma layout for design of my portfolio](<https://www.figma.com/file/HNvizHWHUTJkVd3IR53Ij2/Developer-Portfolio-Design-(Community)?node-id=0%3A1&mode=dev>)
+
+[My current portfolio](https://portfolio-nazar.web.app/)
 
 ### Tech Stack
 
