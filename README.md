@@ -9,6 +9,12 @@
 ![alt text](./_assets/individual-portfolio.png)
 [Link for my components' diagram](https://whimsical.com/individual-portfolio-5pePPa99b54Up9qXFYuWhA)
 
+### Education
+
+1. SEP 2022 – JUN 2023 <br> ESOL | GCSE Math | GCSE English | ICT <br> London South East College <br> London
+2. SEP 2012 – MAY 2022 <br> Secondary Education | Math | English | Ukrainian | IT <br> Lysetsky Lyceum <br> Ukraine
+3. SEP 2018 – JUN 2021 <br> Coding | Front-end Developer | Communication Skills <br> Programming School “School of computer skills” <br> Ukraine
+
 ### My Tech Stack for portfolio
 
 **Frontend**
