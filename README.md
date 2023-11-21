@@ -19,7 +19,7 @@
 
 In this project I will use React with vite template of react, also I will use:
 
--   **react routing**
+-   **react routing** - for make routs in my app
 -   **MongoDB** - for create data base where I will store all my projects
 -   **NodeJs** - for create end points and api for control all data into database
 -   **express js** - for create my server
