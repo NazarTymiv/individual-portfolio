@@ -58,16 +58,11 @@ issues.
 -   Adobe Premiere Pro
 -   Figma
 
-### Links
-
-[Figma layout for design of my portfolio](<https://www.figma.com/file/HNvizHWHUTJkVd3IR53Ij2/Developer-Portfolio-Design-(Community)?node-id=0%3A1&mode=dev>)
-
-[My current portfolio](https://portfolio-nazar.web.app/)
-
 ## Tech Stack
 
 In this project I will use React with vite template of react, also I will use:
 
+-   **React** - for create one page web application
 -   **react routing** - for make routs in my app
 -   **MongoDB** - for create data base where I will store all my projects
 -   **NodeJs** - for create end points and api for control all data into database
@@ -83,7 +78,7 @@ Node js and express js I will use for create my server for communication between
 
 ### Online hosted Portfolio
 
-In progress...
+https://nazar-tymiv.netlify.app
 
 ### Portfolio GitHub Repo
 
